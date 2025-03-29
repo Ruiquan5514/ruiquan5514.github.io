@@ -408,6 +408,9 @@ ninja.data = [{
             },},{id: "news-two-papers-are-accepted-by-neurips-2024",
           title: 'Two papers are accepted by NeurIPS 2024!',
           description: "",
+          section: "News",},{id: "news-i-will-be-joining-the-computer-science-department-at-the-university-of-kentucky-as-an-assistant-professor-in-fall-2025-feel-free-to-reach-out-to-me",
+          title: 'I will be joining the Computer Science Department at the University of Kentucky...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
