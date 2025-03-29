@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, my name is Ruiquan Huang (pronounced _Ray-chwen Hwang_, you are also welcome to call me Ray). I am a Ph.D. candidate at [The Pennsylvania State University](https://psu.edu), and am fortunate to be advised by Professor [Jing Yang](https://jing-yang7.github.io/). Prior to that, I received my B.S. from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), and M.S. degrees from Columbia University.
+Hi there, my name is Ruiquan Huang (pronounced _Ray-chwen Hwang_, you are also welcome to call me Ray). I am a Ph.D. candidate at [The Pennsylvania State University](https://psu.edu), and am fortunate to be advised by Professor [Jing Yang](https://jing-yang7.github.io/). Prior to that, I received my B.S. from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), and M.S. degrees from [Columbia University](https://columbia.edu).
 
 My research interests lie broadly in Machine Learning (ML) and Artificial Intelligence (AI), with a particular focus on deep learning, reinforcement learning, and the trustworthiness of ML/AI systems.
+
+I’m looking for highly motivated PhD students to join our research group. Prospective students with a strong mathematical background and/or extensive programming experience are encouraged to apply. If interested, please contact me by email with a resume, preferably including grades for math/cs/physics courses.
