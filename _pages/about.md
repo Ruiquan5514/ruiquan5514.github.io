@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>State College, PA 16801</p>
-    <p></p>
-    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi there, my name is Ruiquan Huang (pronounced 'Ray-chwen Hwang', you are also welcome to call me Ray). I am a Ph.D. candidate at [The Pennsylvania State University](https://psu.edu), and am fortunate to be advised by Professor [Jing Yang](https://jing-yang7.github.io/). Prior to that, I received my B.S. from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), and M.S. degrees from [Columbia University](https://columbia.edu/).
+Hi there, my name is Ruiquan Huang (pronounced 'Ray-chwen Hwang', you are also welcome to call me Ray). I am a Ph.D. candidate at [The Pennsylvania State University](https://psu.edu), and am fortunate to be advised by Professor [Jing Yang](https://jing-yang7.github.io/). Prior to that, I received my B.S. from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), and M.S. degrees from [Columbia University](https://columbia.edu).
+
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
