@@ -51,11 +51,7 @@
   "interests": [
     {
       "name": "Machine Learning / Artificial Intelligence",
-      "keywords": [
-        "Deep Learning",
-        "Reinforcement Learning",
-        "Safety, Privacy, and Robustness"
-      ]
+      "keywords": ["Deep Learning", "Reinforcement Learning", "Safety, Privacy, and Robustness"]
     }
   ]
 }
