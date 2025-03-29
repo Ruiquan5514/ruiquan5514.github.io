@@ -23,7 +23,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-  
 ---
 
 Hi there, my name is Ruiquan Huang (pronounced *Ray-chwen Hwang*, you are also welcome to call me Ray). I am a Ph.D. candidate at [The Pennsylvania State University](https://psu.edu), and am fortunate to be advised by Professor [Jing Yang](https://jing-yang7.github.io/). Prior to that, I received my B.S. from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), and M.S. degrees from Columbia University.
