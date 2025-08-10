@@ -419,7 +419,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72%7A%68%35%35%31%34@%70%73%75.%65%64%75", "_blank");
+          window.open("mailto:%52%75%69%71%75%61%6E%48%75%61%6E%67@%75%6B%79.%65%64%75", "_blank");
         },
       },{
         id: 'social-rss',
