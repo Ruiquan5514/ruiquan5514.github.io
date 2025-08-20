@@ -10,10 +10,10 @@ nav_order: 6
 ## Current & Upcoming Courses
 
 - **CS 660: Large Language Models**
-  *University of Kentucky, Fall 2025*
+  _University of Kentucky, Fall 2025_
 ---
 
 ## Past Courses
 
 - **EDSGN 100: Cornerstone Engineering Design**
-  *Penn State University, Fall 2023, Spring 2024*
+  _Penn State University, Fall 2023, Spring 2024_
