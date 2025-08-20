@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -413,6 +413,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-is-accepted-by-icml-2025",
           title: 'One paper is accepted by ICML 2025!',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-by-uai-2025",
+          title: 'One paper is accepted by UAI 2025!',
           description: "",
           section: "News",},{
         id: 'social-email',
