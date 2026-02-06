@@ -17,7 +17,6 @@ nav_order: 6
 
 - **CS 660: Large Language Models**
   _University of Kentucky, Fall 2025_
----
 
 - **EDSGN 100: Cornerstone Engineering Design**
   _Penn State University, Fall 2023, Spring 2024_
