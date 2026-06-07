@@ -417,8 +417,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-by-uai-2025",
           title: 'One paper is accepted by UAI 2025!',
           description: "",
-          section: "News",},{id: "news-one-paper-is-accepted-by-icml-2026",
-          title: 'One paper is accepted by ICML 2026!',
+          section: "News",},{id: "news-our-paper-breaking-the-computational-barrier-provably-efficient-actor-critic-for-low-rank-mdps-is-accepted-by-icml-2026",
+          title: 'Our paper: “Breaking the Computational Barrier: Provably Efficient Actor-Critic for Low-Rank MDPs” is...',
           description: "",
           section: "News",},{
         id: 'social-email',
