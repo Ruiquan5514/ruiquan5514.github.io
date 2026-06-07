@@ -9,6 +9,9 @@ nav_order: 6
 
 ## Current & Upcoming Courses
 
+- **CS 585: Sequential Decision Making**
+  _University of Kentucky, Fall 2026_
+  
 - **CS 575: Models of Computation**
   _University of Kentucky, Spring 2026_
 ---
