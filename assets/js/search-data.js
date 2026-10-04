@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-breaking-the-computational-barrier-provably-efficient-actor-critic-for-low-rank-mdps-is-accepted-by-icml-2026",
           title: 'Our paper: “Breaking the Computational Barrier: Provably Efficient Actor-Critic for Low-Rank MDPs” is...',
           description: "",
+          section: "News",},{id: "news-two-papers-have-been-accepted-to-neurips-2026-temporal-gradient-inversion-and-flow-matching-for-offline-rl-with-discrete-actions",
+          title: 'Two papers have been accepted to NeurIPS 2026: Temporal Gradient Inversion and Flow...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
