@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Current & Upcoming Courses
 
-- **CS 667/585: Sequential Decision Making**
+- **[CS 667/585: Sequential Decision Making](/teaching/sequential-decision-making/)**
   _University of Kentucky, Fall 2026_
 
 ## Past Courses

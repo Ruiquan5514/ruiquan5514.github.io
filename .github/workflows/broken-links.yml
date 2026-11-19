@@ -22,4 +22,5 @@ jobs:
         with:
           fail: true
           # 404.md contains a Liquid URL; rendered local links are checked in Deploy site.
-          args: --exclude-path _pages/404.md --max-retries 3 --verbose --no-progress '_pages/**/*.md' '_news/**/*.md'
+          # Jekyll page routes do not exist as files until the site has been built.
+          args: --exclude-path _pages/404.md --root-dir "$PWD" --exclude '^file://' --max-retries 3 --verbose --no-progress '_pages/**/*.md' '_news/**/*.md'
