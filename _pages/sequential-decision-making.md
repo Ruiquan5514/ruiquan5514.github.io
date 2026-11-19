@@ -40,27 +40,15 @@ _styles: |
     margin-top: 1.5rem;
   }
   .course-resources .course-demo {
+    display: block;
     padding: 1.5rem;
     border: 1px solid var(--global-divider-color);
     border-radius: 0.5rem;
     background: var(--global-card-bg-color);
   }
   .course-resources .course-demo h3 {
-    margin-bottom: 1rem;
+    margin: 0;
     font-size: 1.4rem;
-  }
-  .course-resources .course-demo ul {
-    padding-left: 1.25rem;
-  }
-  .course-resources .course-demo li + li {
-    margin-top: 0.5rem;
-  }
-  .course-resources .course-demo-link {
-    display: inline-block;
-    padding: 0.65rem 0.9rem;
-    border: 1px solid currentColor;
-    border-radius: 0.3rem;
-    font-weight: 500;
   }
   .course-resources a:focus-visible {
     outline: 2px solid var(--global-theme-color);
@@ -75,11 +63,10 @@ _styles: |
 
 <div class="course-resources">
   <p><a href="/teaching/">All courses</a></p>
-  <p>Watch the lecture and explore reinforcement learning through interactive demonstrations.</p>
 
   <nav class="course-navigation" aria-label="Course resources">
-    <a href="#lecture-video">Watch the lecture</a>
-    <a href="#visualizations">Explore the algorithms</a>
+    <a href="#lecture-video">Video</a>
+    <a href="#visualizations">Interactive visualizations</a>
   </nav>
 
   <section id="lecture-video" aria-labelledby="lecture-title">
@@ -100,40 +87,15 @@ _styles: |
   </section>
 
   <section id="visualizations" aria-labelledby="visualizations-title">
-    <h2 id="visualizations-title">Interactive algorithm visualizations</h2>
-    <p>Compare how policies learn from experience, or follow a tree search before choosing a move.</p>
+    <h2 id="visualizations-title">Interactive visualizations</h2>
 
     <div class="course-demo-grid">
-      <article class="course-demo" aria-labelledby="policy-title">
-        <h3 id="policy-title">Policy gradients and actor–critic</h3>
-        <p>
-          Replay REINFORCE, one-step actor–critic, and PPO-Clip in the same Gridworld. Track episodic returns,
-          agent trajectories, and estimated state values over 220 training episodes.
-        </p>
-        <p><a class="course-demo-link" href="https://ruiquan5514.github.io/CS667-585-RL/">Compare the algorithms</a></p>
-        <p>Jump to an algorithm in the shared replay:</p>
-        <ul>
-          <li><a href="https://ruiquan5514.github.io/CS667-585-RL/#reinforce-view">REINFORCE + baseline</a> — updates after each episode.</li>
-          <li><a href="https://ruiquan5514.github.io/CS667-585-RL/#actor-critic-view">One-step actor–critic</a> — updates after each transition.</li>
-          <li><a href="https://ruiquan5514.github.io/CS667-585-RL/#ppo-view">PPO-Clip</a> — clipped updates after each rollout batch.</li>
-        </ul>
-        <p>Select one or more algorithms in the demo, then play, pause, or scrub the training timeline.</p>
-      </article>
-
-      <article class="course-demo" aria-labelledby="mcts-title">
-        <h3 id="mcts-title">Monte Carlo Tree Search / UCT</h3>
-        <p>
-          Explore planning in tic-tac-toe. Edit a board position, choose a fixed opponent policy, and inspect
-          how UCT builds a search tree before the agent makes a move.
-        </p>
-        <p><a class="course-demo-link" href="https://ruiquan5514.github.io/CS667-585-RL/mcts/">Explore MCTS / UCT</a></p>
-        <ul>
-          <li>Run one simulation or complete a 512-simulation search.</li>
-          <li>Inspect the selected path, new nodes, and root-action visit counts.</li>
-          <li>Undo a simulation, or pan and zoom through the full tree.</li>
-        </ul>
-        <p>After searching, make the selected move to see the resulting game position.</p>
-      </article>
+      <a class="course-demo" href="https://ruiquan5514.github.io/CS667-585-RL/">
+        <h3>Policy Gradient</h3>
+      </a>
+      <a class="course-demo" href="https://ruiquan5514.github.io/CS667-585-RL/mcts/">
+        <h3>Tree Search (MCTS / UCT)</h3>
+      </a>
     </div>
 
   </section>

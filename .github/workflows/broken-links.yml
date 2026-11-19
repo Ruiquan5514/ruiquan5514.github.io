@@ -18,8 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Check content links
-        uses: lycheeverse/lychee-action@v2.1.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
+          lycheeVersion: v0.24.2
           fail: true
           # 404.md contains a Liquid URL; rendered local links are checked in Deploy site.
           # Jekyll page routes do not exist as files until the site has been built.
